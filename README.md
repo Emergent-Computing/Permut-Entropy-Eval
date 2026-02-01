@@ -1,0 +1,1 @@
+The software evaluates permutation entropy (PE) of signals using the standard definition of PE. It allows use of different dimensions (number of measuring points) and arbitrary lag (distance of neighboring measuring points). The output is evaluated entropy that is exported in 'csv' format and the PE curve is exported as a PNG picture.
